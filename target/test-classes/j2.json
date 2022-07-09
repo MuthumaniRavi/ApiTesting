@@ -1,0 +1,10 @@
+{
+	"name": "suriya",
+	"email": "suriya@xxx.com",
+	"phoneNo": 9877766567,
+	"address": {
+		"streetName": "custom colony",
+		"district": "chennai",
+		"state": "TN"
+	}
+}

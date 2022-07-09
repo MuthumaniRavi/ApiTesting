@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19452" started-at="2022-06-21T12:48:25Z" finished-at="2022-06-21T12:48:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19452" started-at="2022-06-21T12:48:25Z" finished-at="2022-06-21T12:48:45Z">
+      <class name="org.api.automation.TestNg.Requres_Post_Get_Put_Delete">
+        <test-method status="PASS" signature="post()[pri:1, instance:org.api.automation.TestNg.Requres_Post_Get_Put_Delete@4fe3c938]" name="post" duration-ms="14301" started-at="2022-06-21T05:48:25Z" finished-at="2022-06-21T05:48:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+        <test-method status="PASS" signature="get()[pri:2, instance:org.api.automation.TestNg.Requres_Post_Get_Put_Delete@4fe3c938]" name="get" duration-ms="1997" started-at="2022-06-21T05:48:40Z" finished-at="2022-06-21T05:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="put()[pri:3, instance:org.api.automation.TestNg.Requres_Post_Get_Put_Delete@4fe3c938]" name="put" duration-ms="1532" started-at="2022-06-21T05:48:42Z" finished-at="2022-06-21T05:48:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put -->
+        <test-method status="PASS" signature="delete()[pri:4, instance:org.api.automation.TestNg.Requres_Post_Get_Put_Delete@4fe3c938]" name="delete" duration-ms="1465" started-at="2022-06-21T05:48:43Z" finished-at="2022-06-21T05:48:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- org.api.automation.TestNg.Requres_Post_Get_Put_Delete -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

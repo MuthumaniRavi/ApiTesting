@@ -1,0 +1,7 @@
+{
+	"id": 7,
+	"email": "michael.lawson@reqres.in",
+	"first_name": "Michael",
+	"last_name": "Lawson",
+	"courses": ["Java", "python","api"]
+}

@@ -1,0 +1,42 @@
+{
+	"name": "saravana",
+	"email": "saravana@gmail.com",
+	"phoneNo": 8610988167,
+	"address": [
+		{
+			"streetName": "ram",
+			"district": "chennai",
+			"state": "TN"
+		},
+		{
+			"streetName": "ram",
+			"district": "chennai",
+			"state": "TN"
+		},
+		{
+			"streetName": "ram",
+			"district": "chennai",
+			"state": "TN"
+		},
+		{
+			"streetName": "ram",
+			"district": "chennai",
+			"state": "TN"
+		},
+		{
+			"streetName": "ram",
+			"district": "chennai",
+			"state": "TN"
+		},
+		{
+			"streetName": "ram",
+			"district": "chennai",
+			"state": "TN"
+		},
+		{
+			"streetName": "ram",
+			"district": "chennai",
+			"state": "TN"
+		}
+	]
+}
